@@ -16,4 +16,7 @@ Bu proje, p5.js kullanılarak yapılmış eğlenceli bir kelebek kaçış oyunud
 ## Ekran Görüntüsü
 ![Tuana's Escape Game](screenshot.png)
 
+## 🔗 Live Demo
+Click to play: [Tuana's Escape Game 🦋](https://tuanaerdenn.github.io/EscapeGame/)
+
 ## Keyifli oyunlar! 🦋
